@@ -1,4 +1,4 @@
-Beleza! Aqui vai uma versão ainda mais de boa, mais leve e com jeitão de conversa, mas ainda explicando certinho pra não perder ponto com o professor:
+
 
 ---
 
@@ -48,4 +48,4 @@ O **cliente** (você e seu navegador) pede. O **servidor** responde. E o **DNS**
 
 ---
 
-Se quiser, eu junto tudo isso num arquivo `.txt`, `.docx` ou qualquer outro que o professor pediu, e até te dou um toque de como subir no GitHub. Só falar!
+
